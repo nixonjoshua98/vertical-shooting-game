@@ -1,0 +1,5 @@
+﻿  JN_Game.cpp
+C:\Users\Joshua\Desktop\VerticalShootingGame\VerticalShootingGame\JN_Game.cpp(112): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VerticalShootingGame\VerticalShootingGame\JN_Game.cpp(182): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VerticalShootingGame\VerticalShootingGame\JN_Game.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  VerticalShootingGame.vcxproj -> C:\Users\Joshua\Desktop\VerticalShootingGame\Debug\VerticalShootingGame.exe
